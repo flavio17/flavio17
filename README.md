@@ -1,10 +1,10 @@
 <h1>Olá todos! Eu sou Flávio, Front-end developer.. 👋</h1>
-<h2>	🌱 Atualmente estou aprendendo mais sobre Javascript e React</h2>
+<h2>	🌱 Atualmente estou aprendendo e desenvolvendo projetos com Javascript e React</h2>
 <h2>💬 Sobre: </h2>
 <p>Estudo programação há 03 anos e estou em busca da minha primeira oportunidade como desenvolvedor front-end Júnior, contudo também possuo conhecimentos em back-end, progredindo para me tornar fullstack.
 Tenho formação acadêmica em Analise e Desenvolvimento de Sistemas, pela Unopar Vitual, onde dei os primeiros passos em programação e descobrir esse maravilhoso mundo do desenvolvimento web.<br />
 📫 Você pode me encontrar nos links abaixo:<br /> 
-Meu portfólio ainda não está atualizado com os projetos que tenho, apesar de ser projetos simples, tem uma boa base de programação e design.
+Confira os meus melhores projetos e sinta-se a vontade para entrar em contato comigo. Meu portfólio ainda não está totalmente atualizado com os projetos que tenho, apesar de ser projetos simples, tenho uma boa base de programação e design. Estamos abertos a novos desafios e espero contribuir para tornar a web um lugar melhor!
 </>
 
 ### Github status
