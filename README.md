@@ -30,6 +30,13 @@ Confira os meus melhores projetos e sinta-se a vontade para entrar em contato co
 </div>
  
  <br>
+   <h2>Stack principal/h2>
+   - Main Language: Javascript;
+   - Backend: NodeJs;
+   - Frontend: ReactJs, HTML5, CSS3, Javacript;
+   - Layout design: Figma;
+   - Version sistem control: Git & Github;
+   - Tools: VsCode;
  
   ### Me encontre nas redes sociais abaixo!
  
